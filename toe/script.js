@@ -1,5 +1,3 @@
-
-
 // Gameboard Module
 const Gameboard = (() => {
   let board = ["", "", "", "", "", "", "", "", ""];
